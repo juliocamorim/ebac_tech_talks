@@ -1,4 +1,4 @@
-7220
+7222
 98C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libexif\exif-loader.h133117882010000000 0
 98C:\CODING\EBAC\ebac_talks\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133493994482415934 0
 127C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133493994477000911 0
@@ -36,20 +36,14 @@
 61C:\CODING\EBAC\ebac_talks\node_modules\path-type\package.json133493994471774217 0
 51C:\CODING\EBAC\ebac_talks\node_modules\cli-progress133493994479832749 1
 76C:\CODING\EBAC\ebac_talks\node_modules\posthtml\node_modules\posthtml-parser133493994487051008 1
-47C:\CODING\EBAC\ebac_talks\src\styles\components133494869792826911 1
+47C:\CODING\EBAC\ebac_talks\src\styles\components133494881641246145 1
 82C:\CODING\EBAC\ebac_talks\node_modules\sharp\node_modules\node-addon-api\nothing.c133494000905501099 0
 100C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_path.js133493994474212991 0
 59C:\CODING\EBAC\ebac_talks\node_modules\sharp\src\pipeline.h133494000906140890 0
 65C:\CODING\EBAC\ebac_talks\node_modules\source-map-js\package.json133493994476147539 0
 77C:\CODING\EBAC\ebac_talks\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133493994497601843 0
 64C:\CODING\EBAC\ebac_talks\node_modules\cli-progress\package.json133493994477539684 0
-30C:\CODING\EBAC\ebac_talks\dist133494877298471167 1
-44C:\CODING\EBAC\ebac_talks\node_modules\sharp133494000957963792 1
-93C:\CODING\EBAC\ebac_talks\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\media.cjs133493994490578795 0
-61C:\CODING\EBAC\ebac_talks\node_modules\term-size\package.json133493994478328234 0
-93C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133493994501138905 0
-62C:\CODING\EBAC\ebac_talks\node_modules\sharp\src\operations.cc133494000905818855 0
-43C:\CODING\EBAC\ebac_talks\node_modules\csso133493994488649252 1
+30C:\CODING\EBAC\ebac_talks\dist133494890402317777 1
 70C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\regions\MR.js133493994501327862 0
 71C:\CODING\EBAC\ebac_talks\node_modules\strip-json-comments\package.json133494000903342277 0
 62C:\CODING\EBAC\ebac_talks\node_modules\@parcel\packager-js\lib133493994485459254 1
@@ -69,7 +63,7 @@
 52C:\CODING\EBAC\ebac_talks\node_modules\sharp\LICENSE133494000905603030 0
 61C:\CODING\EBAC\ebac_talks\node_modules\dom-serializer\lib\esm133493994476325336 1
 96C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133493994503582259 0
-40C:\CODING\EBAC\ebac_talks\src\index.html133494871178584799 0
+40C:\CODING\EBAC\ebac_talks\src\index.html133494885010644198 0
 77C:\CODING\EBAC\ebac_talks\node_modules\svgo\plugins\addClassesToSVGElement.js133493994482595307 0
 70C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\regions\HU.js133493994499768269 0
 109C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-features.h133117882010000000 0
@@ -93,7 +87,7 @@
 57C:\CODING\EBAC\ebac_talks\node_modules\is-number\index.js133493994472072134 0
 96C:\CODING\EBAC\ebac_talks\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133493994477957095 0
 58C:\CODING\EBAC\ebac_talks\node_modules\parcel\package.json133493994485762135 0
-46C:\CODING\EBAC\ebac_talks\src\styles\main.scss133494877289825992 0
+46C:\CODING\EBAC\ebac_talks\src\styles\main.scss133494883921758576 0
 59C:\CODING\EBAC\ebac_talks\node_modules\path-type\index.d.ts133493994472116020 0
 98C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gnode.h133117882010000000 0
 78C:\CODING\EBAC\ebac_talks\node_modules\@parcel\utils\test\PromiseQueue.test.js133493994489722933 0
@@ -121,6 +115,14 @@
 61C:\CODING\EBAC\ebac_talks\src\styles\components\_buttons.scss133494876490690641 0
 69C:\CODING\EBAC\ebac_talks\node_modules\css-what\lib\es\index.d.ts.map133493994475961745 0
 70C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\regions\RU.js133493994502490958 0
+75C:\CODING\EBAC\ebac_talks\node_modules\@swc\helpers\_\_extends\package.json133493994493597483 0
+52C:\CODING\EBAC\ebac_talks\node_modules\color-convert133493994474342581 1
+99C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libheif\heif_version.h133117882010000000 0
+85C:\CODING\EBAC\ebac_talks\node_modules\css-select\node_modules\entities\lib\generated133493994490956483 1
+73C:\CODING\EBAC\ebac_talks\node_modules\htmlnano\docs\docusaurus.config.js133493994484309875 0
+59C:\CODING\EBAC\ebac_talks\src\styles\components\_event.scss133494890340607412 0
+79C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\websockets.js133493994504067033 0
+46C:\CODING\EBAC\ebac_talks\node_modules\@parcel133494000975609755 1
 82C:\CODING\EBAC\ebac_talks\node_modules\update-browserslist-db\check-npm-version.js133493994473993010 0
 45C:\CODING\EBAC\ebac_talks\node_modules\@babel133493994468411676 1
 63C:\CODING\EBAC\ebac_talks\src\styles\components\_infos_bar.scss133494873738187509 0
@@ -249,13 +251,6 @@
 61C:\CODING\EBAC\ebac_talks\node_modules\picomatch\package.json133493994474880493 0
 89C:\CODING\EBAC\ebac_talks\node_modules\dom-serializer\node_modules\entities\lib\decode.js133493994472698884 0
 56C:\CODING\EBAC\ebac_talks\node_modules\@msgpackr-extract133494000975609755 1
-75C:\CODING\EBAC\ebac_talks\node_modules\@swc\helpers\_\_extends\package.json133493994493597483 0
-52C:\CODING\EBAC\ebac_talks\node_modules\color-convert133493994474342581 1
-99C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libheif\heif_version.h133117882010000000 0
-85C:\CODING\EBAC\ebac_talks\node_modules\css-select\node_modules\entities\lib\generated133493994490956483 1
-73C:\CODING\EBAC\ebac_talks\node_modules\htmlnano\docs\docusaurus.config.js133493994484309875 0
-79C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\websockets.js133493994504067033 0
-46C:\CODING\EBAC\ebac_talks\node_modules\@parcel133494000975609755 1
 47C:\CODING\EBAC\ebac_talks\node_modules\posthtml133493994478379797 1
 59C:\CODING\EBAC\ebac_talks\node_modules\string-width\license133493994473690525 0
 67C:\CODING\EBAC\ebac_talks\node_modules\svgo\plugins\inlineStyles.js133493994484734680 0
@@ -355,6 +350,12 @@
 131C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133493994488434532 0
 56C:\CODING\EBAC\ebac_talks\node_modules\csso\node_modules133493994468648341 1
 106C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-subset-repacker.h133117882010000000 0
+44C:\CODING\EBAC\ebac_talks\node_modules\sharp133494000957963792 1
+93C:\CODING\EBAC\ebac_talks\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\media.cjs133493994490578795 0
+61C:\CODING\EBAC\ebac_talks\node_modules\term-size\package.json133493994478328234 0
+93C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133493994501138905 0
+62C:\CODING\EBAC\ebac_talks\node_modules\sharp\src\operations.cc133494000905818855 0
+43C:\CODING\EBAC\ebac_talks\node_modules\csso133493994488649252 1
 55C:\CODING\EBAC\ebac_talks\node_modules\cli-progress\lib133493994479686075 1
 58C:\CODING\EBAC\ebac_talks\node_modules\decompress-response133494000903665338 1
 50C:\CODING\EBAC\ebac_talks\node_modules\deep-extend133494000903675428 1
@@ -1382,7 +1383,7 @@
 57C:\CODING\EBAC\ebac_talks\node_modules\@parcel\fs\LICENSE133493994485093117 0
 75C:\CODING\EBAC\ebac_talks\node_modules\@parcel\source-map\dist\SourceMap.js133493994482469868 0
 95C:\CODING\EBAC\ebac_talks\node_modules\csso\node_modules\css-tree\lib\syntax\node\IdSelector.js133493994493563585 0
-52C:\CODING\EBAC\ebac_talks\dist\index.f75de5e1.js.map133494877298318263 0
+52C:\CODING\EBAC\ebac_talks\dist\index.f75de5e1.js.map133494890401986195 0
 87C:\CODING\EBAC\ebac_talks\node_modules\@babel\highlight\node_modules\chalk\templates.js133493994474034847 0
 63C:\CODING\EBAC\ebac_talks\node_modules\term-size\vendor\windows133493994477797382 1
 88C:\CODING\EBAC\ebac_talks\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133493994478121659 0
@@ -1399,8 +1400,8 @@
 59C:\CODING\EBAC\ebac_talks\node_modules\base64-js\index.d.ts133494000902978136 0
 71C:\CODING\EBAC\ebac_talks\node_modules\term-size\vendor\macos\.DS_Store133493994476891676 0
 62C:\CODING\EBAC\ebac_talks\node_modules\cli-progress\lib\eta.js133493994477848110 0
-72C:\CODING\EBAC\ebac_talks\node_modules\source-map\dist\source-map.min.js133493994478872204 0
 71C:\CODING\EBAC\ebac_talks\node_modules\term-size\vendor\macos\term-size133493994477549711 0
+72C:\CODING\EBAC\ebac_talks\node_modules\source-map\dist\source-map.min.js133493994478872204 0
 60C:\CODING\EBAC\ebac_talks\node_modules\tar-stream\extract.js133494000903705849 0
 69C:\CODING\EBAC\ebac_talks\node_modules\csso\cjs\restructure\index.cjs133493994479313909 0
 108C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.d.ts.map133493994478080479 0
@@ -1539,7 +1540,7 @@
 60C:\CODING\EBAC\ebac_talks\node_modules\braces\lib\compile.js133493994474170596 0
 77C:\CODING\EBAC\ebac_talks\node_modules\node-releases\data\processed\envs.json133493994474380533 0
 65C:\CODING\EBAC\ebac_talks\node_modules\semver\functions\coerce.js133493994479213345 0
-48C:\CODING\EBAC\ebac_talks\dist\index.f75de5e1.js133494877298297629 0
+48C:\CODING\EBAC\ebac_talks\dist\index.f75de5e1.js133494890401965024 0
 69C:\CODING\EBAC\ebac_talks\node_modules\svgo\plugins\collapseGroups.js133493994483761104 0
 70C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\regions\LR.js133493994500914188 0
 99C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gquark.h133117882010000000 0
@@ -1811,7 +1812,7 @@
 57C:\CODING\EBAC\ebac_talks\node_modules\dom-serializer\lib133493994476561651 1
 98C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax133493994486760066 1
 93C:\CODING\EBAC\ebac_talks\node_modules\readable-stream\lib\internal\streams\async_iterator.js133494000903095387 0
-50C:\CODING\EBAC\ebac_talks\dist\styles\main.css.map133494877298318263 0
+50C:\CODING\EBAC\ebac_talks\dist\styles\main.css.map133494890402191721 0
 102C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gchecksum.h133117882010000000 0
 88C:\CODING\EBAC\ebac_talks\node_modules\simple-swizzle\node_modules\is-arrayish\README.md133494000904607484 0
 106C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\fttrigon.h133117882010000000 0
@@ -2086,7 +2087,7 @@
 85C:\CODING\EBAC\ebac_talks\node_modules\csso\node_modules\css-tree\lib\walker\index.js133493994497269996 0
 105C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcinstruction.h133117882010000000 0
 94C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\pixman-1\pixman.h133117882010000000 0
-53C:\CODING\EBAC\ebac_talks\dist\ebac_talks.59712999.js133494877298369736 0
+53C:\CODING\EBAC\ebac_talks\dist\ebac_talks.59712999.js133494890401965024 0
 71C:\CODING\EBAC\ebac_talks\node_modules\@parcel\transformer-posthtml\lib133493994481649566 1
 104C:\CODING\EBAC\ebac_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gthreadpool.h133117882010000000 0
 108C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\definitions.json133493994475637191 0
@@ -3219,8 +3220,6 @@
 90C:\CODING\EBAC\ebac_talks\node_modules\readable-stream\lib\internal\streams\buffer_list.js133494000903105432 0
 91C:\CODING\EBAC\ebac_talks\node_modules\readable-stream\lib\internal\streams\from-browser.js133494000903484083 0
 70C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\regions\KN.js133493994500622391 0
-72C:\CODING\EBAC\ebac_talks\node_modules\@lmdb\lmdb-win32-x64\package.json133493994473292660 0
-88C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js133493994491856705 0
 83C:\CODING\EBAC\ebac_talks\node_modules\readable-stream\lib\internal\streams\from.js133494000903600908 0
 56C:\CODING\EBAC\ebac_talks\node_modules\csso\lib\usage.js133493994488182889 0
 84C:\CODING\EBAC\ebac_talks\node_modules\@parcel\bundler-default\src\DefaultBundler.js133493994484232979 0
@@ -5280,6 +5279,8 @@
 94C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\css-container-query-units.js133493994491677803 0
 84C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\css-containment.js133493994491697978 0
 83C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\css-cross-fade.js133493994491801086 0
+72C:\CODING\EBAC\ebac_talks\node_modules\@lmdb\lmdb-win32-x64\package.json133493994473292660 0
+88C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js133493994491856705 0
 89C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\css-element-function.js133493994491990576 0
 85C:\CODING\EBAC\ebac_talks\node_modules\caniuse-lite\data\features\css-env-function.js133493994492032059 0
 87C:\CODING\EBAC\ebac_talks\node_modules\@parcel\core\test\fixtures\common-targets-ignore133493994498114382 1
@@ -6910,7 +6911,7 @@
 112C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts.map133493994478090632 0
 103C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts133493994481123790 0
 107C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts.map133493994478466717 0
-50C:\CODING\EBAC\ebac_talks\dist\scripts\main.js.map133494877298389863 0
+50C:\CODING\EBAC\ebac_talks\dist\scripts\main.js.map133494890402212340 0
 101C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.js133493994475779925 0
 108C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\types.d.ts.map133493994478950252 0
 123C:\CODING\EBAC\ebac_talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133493994479431507 0
@@ -7015,7 +7016,7 @@
 94C:\CODING\EBAC\ebac_talks\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133493994498534479 1
 93C:\CODING\EBAC\ebac_talks\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133493994498549511 1
 106C:\CODING\EBAC\ebac_talks\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json133493994498560644 0
-46C:\CODING\EBAC\ebac_talks\dist\scripts\main.js133494877298369736 0
+46C:\CODING\EBAC\ebac_talks\dist\scripts\main.js133494890402201746 0
 86C:\CODING\EBAC\ebac_talks\node_modules\@parcel\core\test\fixtures\plugins\node_modules133493994491889205 1
 117C:\CODING\EBAC\ebac_talks\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133493994498514336 1
 129C:\CODING\EBAC\ebac_talks\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133493994498534479 0
@@ -7163,7 +7164,7 @@
 64C:\CODING\EBAC\ebac_talks\node_modules\@babel\code-frame\LICENSE133493994472646259 0
 66C:\CODING\EBAC\ebac_talks\node_modules\@babel\code-frame\README.md133493994473111822 0
 75C:\CODING\EBAC\ebac_talks\node_modules\@babel\code-frame\node_modules\chalk133493994474273121 1
-37C:\CODING\EBAC\ebac_talks\dist\styles133494877298329234 1
+37C:\CODING\EBAC\ebac_talks\dist\styles133494890402201746 1
 83C:\CODING\EBAC\ebac_talks\node_modules\@babel\code-frame\node_modules\color-convert133493994474347610 1
 78C:\CODING\EBAC\ebac_talks\node_modules\@babel\code-frame\node_modules\has-flag133493994472849551 1
 95C:\CODING\EBAC\ebac_talks\node_modules\@babel\code-frame\node_modules\supports-color\browser.js133493994472174615 0
@@ -7213,9 +7214,10 @@
 52C:\CODING\EBAC\ebac_talks\node_modules\.bin\sass.ps1133493996943549098 0
 54C:\CODING\EBAC\ebac_talks\node_modules\.bin\semver.cmd133493994568048782 0
 52C:\CODING\EBAC\ebac_talks\node_modules\.bin\svgo.cmd133493994568048782 0
-53C:\CODING\EBAC\ebac_talks\dist\ebac_logo.a50a4e19.svg133494877298277545 0
-57C:\CODING\EBAC\ebac_talks\dist\ebac_talks.59712999.js.map133494877298389863 0
-49C:\CODING\EBAC\ebac_talks\dist\fundo.a62a0635.png133494877298297629 0
-41C:\CODING\EBAC\ebac_talks\dist\index.html133494877298471167 0
-38C:\CODING\EBAC\ebac_talks\dist\scripts133494877298399984 1
-46C:\CODING\EBAC\ebac_talks\dist\styles\main.css133494877298297629 0
+53C:\CODING\EBAC\ebac_talks\dist\ebac_logo.a50a4e19.svg133494890402307613 0
+57C:\CODING\EBAC\ebac_talks\dist\ebac_talks.59712999.js.map133494890401986195 0
+52C:\CODING\EBAC\ebac_talks\dist\frontend.ffcc0254.png133494890401669239 0
+49C:\CODING\EBAC\ebac_talks\dist\fundo.a62a0635.png133494890401649236 0
+41C:\CODING\EBAC\ebac_talks\dist\index.html133494890402017230 0
+38C:\CODING\EBAC\ebac_talks\dist\scripts133494890402212340 1
+46C:\CODING\EBAC\ebac_talks\dist\styles\main.css133494890402168567 0
