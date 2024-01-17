@@ -579,7 +579,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"3cYfC":[function(require,module,exports) {
-console.log("Ol\xe1 Mundo");
+AOS.init();
 
 },{}]},["eWdrD","3cYfC"], "3cYfC", "parcelRequireec61")
 
