@@ -55,6 +55,7 @@
 
 .infos-bar {
   background-color: #fff;
+  border-radius: 5px;
   justify-content: space-between;
   padding: 16px 24px;
   display: flex;
